@@ -1,1 +1,1 @@
-# LIghtMind-Android-Studio-
+# LIghtMind-Android-Studio
