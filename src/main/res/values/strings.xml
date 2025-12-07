@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LightMind</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="title_notes">My Notes</string>
+    <string name="hint_search">Search notes…</string>
+    <string name="empty_nohint">No notes yet</string>
+    <string name="empty_addhint">Click + button to create a new note</string>
+    <string name="delete_note_title">Delete Note</string>
+    <string name="delete_note_message">Are you sure you want to delete \"%1$s\"?</string>
+
+    <string name="about_title">About</string>
+    <string name="about_message">LightMind v1.0\n\nA simple AI-powered note app</string>
+
+    <string name="title_new_note">New Note</string>
+    <string name="title_edit_note">Edit Note</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Write your note here…</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="save_failed">Save failed</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="error_empty_content">Content cannot be empty</string>
+
+    <string name="title_chat">AI Assistant</string>
+    <string name="hint_asking">Ask a question…</string>
+    <string name="chat_thinking">Thinking…</string>
+    <string name="chat_error">Error: %1$s</string>
+    <string name="chat_welcome">Hello! I\'m your AI assistant. I can help you search and analyze your notes. What would you like to know?</string>
+    <string name="chat_error_generic">Sorry, an error occurred: %1$s</string>
+
+    <string name="prompt_system">You are a smart note assistant that helps users manage and query their notes.</string>
+    <string name="prompt_notes_header">Here are the user\'s notes:</string>
+    <string name="prompt_note_format">[Note %1$d] %2$s: %3$s</string>
+    <string name="prompt_empty_notes">The user\'s notebook is currently empty.</string>
+    <string name="prompt_requirements">Requirements: Answer based on relevant notes when found. Use your knowledge for unrelated questions. Keep answers concise. If notebook is empty, suggest adding notes first.</string>
+</resources>

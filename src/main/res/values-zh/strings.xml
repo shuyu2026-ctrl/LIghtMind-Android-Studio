@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">轻记</string>
+
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_ok">确定</string>
+
+    <string name="title_notes">我的笔记</string>
+    <string name="hint_search">搜索笔记…</string>
+    <string name="empty_addhint">点击右下角 + 创建新笔记</string>
+    <string name="empty_nohint">还没有笔记</string>
+    <string name="delete_note_title">删除笔记</string>
+    <string name="delete_note_message">确定要删除「%1$s」吗？</string>
+
+    <string name="about_title">关于</string>
+    <string name="about_message">轻记 v1.0\n\n一个简单的AI笔记应用</string>
+
+    <string name="title_new_note">新建笔记</string>
+    <string name="title_edit_note">编辑笔记</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_content">在这里写笔记…</string>
+    <string name="note_saved">保存成功</string>
+    <string name="note_deleted">已删除</string>
+    <string name="save_failed">保存失败</string>
+    <string name="error_empty_title">标题不能为空</string>
+    <string name="error_empty_content">内容不能为空</string>
+
+    <string name="title_chat">AI 助手</string>
+    <string name="hint_asking">输入你的问题…</string>
+    <string name="chat_thinking">思考中…</string>
+    <string name="chat_error">出错了：%1$s</string>
+    <string name="chat_welcome">你好！我是AI助手，可以帮你查询和分析笔记内容。有什么问题吗？</string>
+    <string name="chat_error_generic">抱歉，出现错误：%1$s</string>
+
+    <string name="prompt_system">你是一个智能笔记助手，帮助用户管理和查询他们的笔记。</string>
+    <string name="prompt_notes_header">以下是用户的笔记库内容：</string>
+    <string name="prompt_note_format">【笔记%1$d】%2$s：%3$s</string>
+    <string name="prompt_empty_notes">用户的笔记库目前是空的。</string>
+    <string name="prompt_requirements">回答要求：根据用户问题从笔记中找到相关内容并回答。如果问题与笔记无关可以用你的知识正常回答。回答要简洁有条理。如果笔记库是空的提醒用户可以先添加一些笔记。</string>
+</resources>
